@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1578239614 source:/home/elmerzglue/codeblocks/pokemon/main.cpp
+	<iostream>
+	<string>
+	"PokedexBuilder.h"
+
+1576134816 source:/home/elmerzglue/codeblocks/pokemon/src/SavedPkm.cpp
+	"SavedPkm.h"
+
+1576138354 /home/elmerzglue/codeblocks/pokemon/include/SavedPkm.h
+	"enums.h"
+
+1578239555 /home/elmerzglue/codeblocks/pokemon/include/enums.h
+	<string>
+
+1578239371 source:/home/elmerzglue/codeblocks/pokemon/src/PokedexBuilder.cpp
+	"PokedexBuilder.h"
+	<iostream>
+	"enums.h"
+
+1578239259 /home/elmerzglue/codeblocks/pokemon/include/PokedexBuilder.h
+	<string>
+	<iostream>
+	"enums.h"
+
